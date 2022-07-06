@@ -18,7 +18,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My  High School, Baccalaureat Mathematiques , Mathematiques -2000 
+            My  High School, Baccalaureat Mathematiques -2000 
           </h3>
           <p> High School Diploma</p>
         </VerticalTimelineElement>
@@ -29,7 +29,8 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Rabbinic School , juin2006 , rabbinical Degree 
+            Rabbinic School , juin2006 , rabbinical Degreee in Paris-
+            Mohel since 2011 with Brit Yossef Itzhak Association 
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
@@ -44,7 +45,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Study school -Paris Full Paris 2019-2020 - Cours Online with degree 
+            Study school -Paris Full Paris 2019-2020 - Cours Online with degree -
              John Bryce Full stack Web application -Jerusalem 2021-2022 
 
           </h3>
