@@ -45,7 +45,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Study school -Paris Full Paris 2019-2020 - Cours Online with degree -
+            Study school -Paris FullStack Paris 2019-2020 - Cours Online with degree -
              John Bryce Full stack Web application -Jerusalem 2021-2022 
 
           </h3>
