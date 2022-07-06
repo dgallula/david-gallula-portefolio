@@ -10,7 +10,7 @@ import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
   {
-    name: "Task to do in JavaScript,HTML,CSS",
+    name: "Task to do project in JavaScript,HTML,CSS",
     image: Proj1,
     skills: " project-01-john-bryce.vercel.app ",
   },
@@ -20,7 +20,7 @@ export const ProjectList = [
     skills: "Angular,Node.js,MongoDB",
   },
   {
-    name: "api movies React,Node.js,API,AXIOs",
+    name: "api movies with React,Node.js,API,AXIOs",
     image: Proj3,
     skills:   "http://react-movies-cb8d9cfc43070c00f6c5fe7dc04310d2dfa9ae41.vercel.app/",
   },
@@ -30,7 +30,7 @@ export const ProjectList = [
     skills: "React,Node.js,MySQL,GraphQL",
   },
   {
-    name: "Bitcoins in Javascript , html ,css, API fetch",
+    name: "Bitcoins project in Javascript , html ,css, API fetch",
     image: Proj5,
     skills: "http://projet2-indol.vercel.app/",
   },
@@ -40,7 +40,9 @@ export const ProjectList = [
     skills: "http://memory-game-in-javascript.vercel.app/"
   },
   
-];
 
+
+
+];
 
 
